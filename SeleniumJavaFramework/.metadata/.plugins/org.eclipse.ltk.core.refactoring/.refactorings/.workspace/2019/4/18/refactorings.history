@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;SeleniumJavaFramework&apos; to &apos;SeleniumJavaFramework1&apos;" description="Rename resource &apos;SeleniumJavaFramework&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/SeleniumJavaFramework" name="SeleniumJavaFramework1" stamp="1556557099577" updateReferences="true"/>
+</session>
